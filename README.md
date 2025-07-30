@@ -6,7 +6,7 @@
 
 Extension QGIS pour explorer et charger des données géographiques depuis des serveurs WebDAV/Nextcloud, optimisée pour le CRAIG et autres infrastructures de données géographiques.
 
-![Aperçu WebDAV Explorer](screenshots/apercu.png)
+![screenshots/apercu.png](https://docs.numerique.gouv.fr/media/1f66a9f2-df28-4c84-99e9-7703b28848be/attachments/75b5106e-91d4-432c-8cf9-378a64d6c2cd.png)
 
 ## 📋 Fonctionnalités
 

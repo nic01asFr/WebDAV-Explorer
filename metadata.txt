@@ -1,0 +1,29 @@
+[general]
+name=WebDAV Explorer
+qgisMinimumVersion=3.16
+description=Explorer et charger des données géographiques depuis des serveurs WebDAV/Nextcloud
+version=1.0
+author=Nicolas LAVAL
+email=nicolas.laval@cerema.fr
+
+about=Cette extension permet de se connecter à des serveurs WebDAV/Nextcloud,
+    d'explorer les dossiers, de prévisualiser les métadonnées des fichiers géographiques,
+    et de les charger directement dans QGIS. Optimisé pour les données PCRS et autres
+    données géographiques volumineuses.
+
+tracker=https://github.com/cerema/qgis-webdav-explorer
+repository=https://github.com/cerema/qgis-webdav-explorer
+tags=webdav,nextcloud,remote,data,pcrs,raster,vector
+homepage=https://www.cerema.fr
+category=Web
+icon=icon.png
+experimental=False
+deprecated=False
+hasProcessingProvider=no
+
+changelog=1.0 - Version initiale
+    - Connexion WebDAV/Nextcloud
+    - Exploration arborescente
+    - Filtrage par type de fichier
+    - Prévisualisation métadonnées
+    - Chargement direct dans QGIS

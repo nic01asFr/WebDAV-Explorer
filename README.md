@@ -34,7 +34,7 @@ Extension QGIS pour explorer et charger des données géographiques depuis des s
 
 ### Installation manuelle
 
-1. Téléchargez la dernière version depuis [la page des releases](https://github.com/cerema/qgis-webdav-explorer/releases)
+1. Téléchargez la dernière version depuis [la page des releases](https://github.com/nic01asFr/WebDAV-Explorer/releases)
 2. Décompressez l'archive dans le dossier des extensions QGIS (`~/.qgis3/python/plugins/` sous Linux, `C:\Users\{USER}\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins\` sous Windows)
 3. Activez l'extension dans QGIS via **Extensions > Gérer les extensions**
 

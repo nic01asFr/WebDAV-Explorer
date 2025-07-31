@@ -120,8 +120,7 @@ Ce projet est sous licence [GNU General Public License v3.0](LICENSE) - voir le 
 
 ## 👤 Auteur
 
-**Nicolas LAVAL** - [Cerema](https://www.cerema.fr)
-- Email : nicolas.laval@cerema.fr
+**Nicolas LAVAL**
 
 ## 🙏 Remerciements
 

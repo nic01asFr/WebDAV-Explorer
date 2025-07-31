@@ -1,7 +1,7 @@
 # WebDAV Explorer pour QGIS
 
 [![QGIS Minimum Version](https://img.shields.io/badge/QGIS-3.16+-green.svg)](https://qgis.org/)
-[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/cerema/qgis-webdav-explorer)
+[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/nic01asFr/WebDAV-Explorer)
 [![License](https://img.shields.io/badge/license-GPL--3.0-orange.svg)](LICENSE)
 
 Extension QGIS pour explorer et charger des données géographiques depuis des serveurs WebDAV/Nextcloud, optimisée pour le CRAIG et autres infrastructures de données géographiques.
@@ -29,7 +29,7 @@ Extension QGIS pour explorer et charger des données géographiques depuis des s
 ### Depuis le gestionnaire d'extensions QGIS
 
 1. Dans QGIS, allez dans **Extensions > Installer/Gérer les extensions**
-2. Dans l'onglet **Paramètres**, ajoutez le dépôt WebDAV Explorer : `https://github.com/cerema/qgis-webdav-explorer/releases/latest/download/plugins.xml`
+2. Dans l'onglet **Paramètres**, ajoutez le dépôt WebDAV Explorer : `https://github.com/nic01asFr/WebDAV-Explorer/releases/latest/download/plugins.xml`
 3. Dans l'onglet **Tous**, recherchez "WebDAV Explorer" et cliquez sur **Installer**
 
 ### Installation manuelle
